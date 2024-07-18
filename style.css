@@ -1,0 +1,27 @@
+table{
+    width: 300px;
+    text-align: center;
+    /* border-collapse: collapse; */
+    margin-left: 40%;
+    margin-top: 10%;
+    color: white;
+    background-color: rgb(60, 59, 59);
+}
+.input{
+    height: 30px;
+    background-color: grey;
+    text-align: right;
+    font-size: 40px;
+}
+tr{
+    /* width: 70px;
+    height: 70px; */
+    height: 70px;
+}
+.btn{
+    background-color: black;
+    width: 50px;
+}
+.num{
+    background-color: rgb(47, 59, 59);
+}
